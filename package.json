@@ -1,0 +1,19 @@
+{
+  "name": "tester-pen",
+  "version": "1.0.0",
+  "description": "Just a dummy module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoscmc/tester-pen.git"
+  },
+  "author": "Amos Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoscmc/tester-pen/issues"
+  },
+  "homepage": "https://github.com/amoscmc/tester-pen#readme"
+}
